@@ -1,5 +1,6 @@
 # fibonacci
 The Fibonacci series, a renowned mathematical sequence, is characterized by each number being the sum of the two preceding ones. Typically initiated with 0 and 1, this project delves into the intricacies of designing and verifying a digital circuit that systematically generates the Fibonacci series.
+
 <img width="313" alt="image" src="https://github.com/BMMADHUMITHA/fibonacci/assets/134037700/e66bca5e-9dd8-4908-8d45-aaac0de71155">
 
 # Algorithmic State Machine with Datapath
